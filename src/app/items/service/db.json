@@ -1,0 +1,11 @@
+{
+    "produtos": [
+        {
+            "img": "../../assets/leite.jpg",
+            "nome": "Leite Integral Italac 1L",
+            "descricao": "O Leite UHT Integral Italac é um produto de alta qualidade, que garante o sabor e a textura ideal em suas receitas.",
+            "valor": 4.95,
+            "id": 1
+        }
+    ]
+}
